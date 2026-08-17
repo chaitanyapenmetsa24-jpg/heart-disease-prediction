@@ -10,7 +10,7 @@ A machine learning project that predicts the possibility of heart disease based 
 
 
 
-This project uses a machine learning model to analyze medical input data and predict whether a person is likely to have heart disease.
+This project uses a machine learning model to analyze patient health-related data and predict the possibility of heart disease.
 
 
 
@@ -44,11 +44,7 @@ This project uses a machine learning model to analyze medical input data and pre
 
 
 
-1\. Clone the repository.
-
-
-
-2\. Install the required packages:
+Install the required libraries:
 
 
 
